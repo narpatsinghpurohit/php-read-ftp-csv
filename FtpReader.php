@@ -1,6 +1,6 @@
 <?php
 
-public class getFileFromFTP {
+public class FtpReader {
  
 //Setting Ftp details - Change as per your data
         private ftpHost = 'ftp_host';
