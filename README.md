@@ -1,2 +1,7 @@
 # php-read-ftp-csv
-Get file csv file from ftp and store it into database
+Read Csv file from FTP
+
+Change the ftp configurations in file
+-- Host - FTP Host
+-- User - FTP User
+-- Password - FTP User Password
